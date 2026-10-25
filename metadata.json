@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Flashcards Minimalista",
+  "description": "Gerador de flashcards minimalista e inteligente com extração de conceitos via Gemini, viragem 3D suave, acompanhamento de estudo e temas claro/escuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
